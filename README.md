@@ -3,8 +3,7 @@
    
    1. Analysing the Corona Symptoms and their Percentage to Corona through ***Barplot.***
    2. Visualizing through ***Piechart.***
-   3. Describing the Dataset, i.e, Pateint.csv
-      -Dataset can be found at: 
+   3. Describing the Dataset, i.e, Pateint.csv.
    4. Checking for Outliers present in the dataset using ***BoxPlot*** and ***ViolinPlot.***
    5. ***Kde plot*** for identifying the age distributions of Iolated, Released and Deceased People.
    6. Plotting the Age Distribution over the sate of a person using ***Catplot.***
